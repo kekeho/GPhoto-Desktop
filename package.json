@@ -1,0 +1,19 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "Google Photo Desktop Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekeho/GPhoto-Desktop.git"
+  },
+  "author": "Hiroki.T <hirodora@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kekeho/GPhoto-Desktop/issues"
+  },
+  "homepage": "https://github.com/kekeho/GPhoto-Desktop#readme"
+}
